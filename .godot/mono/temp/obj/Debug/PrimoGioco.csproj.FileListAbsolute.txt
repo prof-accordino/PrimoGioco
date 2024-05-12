@@ -1,0 +1,17 @@
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\bin\Debug\PrimoGioco.deps.json
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\bin\Debug\PrimoGioco.runtimeconfig.json
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\bin\Debug\PrimoGioco.dll
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\bin\Debug\PrimoGioco.pdb
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.csproj.AssemblyReference.cache
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.AssemblyInfoInputs.cache
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.AssemblyInfo.cs
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.csproj.CoreCompileInputs.cache
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.csproj.CopyComplete
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.dll
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\refint\PrimoGioco.dll
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.pdb
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\PrimoGioco.genruntimeconfig.cache
+C:\Users\Accordino\Documents\PrimoGioco\.godot\mono\temp\obj\Debug\ref\PrimoGioco.dll
